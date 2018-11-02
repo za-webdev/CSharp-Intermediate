@@ -1,0 +1,6 @@
+c:\users\zali\documents\visual studio 2015\Projects\SchoolManagement2\SchoolManagement2\bin\Debug\SchoolManagement2.exe.config
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolManagement2\bin\Debug\SchoolManagement2.exe
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolManagement2\bin\Debug\SchoolManagement2.pdb
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolManagement2\obj\Debug\SchoolManagement2.exe
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolManagement2\obj\Debug\SchoolManagement2.pdb
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolManagement2\obj\Debug\SchoolManagement2.csprojResolveAssemblyReference.cache

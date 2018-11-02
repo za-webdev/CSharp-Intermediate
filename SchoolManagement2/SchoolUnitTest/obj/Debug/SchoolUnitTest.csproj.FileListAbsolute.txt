@@ -1,0 +1,10 @@
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\bin\Debug\SchoolUnitTest.dll
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\bin\Debug\SchoolUnitTest.pdb
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\bin\Debug\SchoolManagement2.exe
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\bin\Debug\SchoolManagement2.pdb
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\bin\Debug\nunit.framework.pdb
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\obj\Debug\SchoolUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\obj\Debug\SchoolUnitTest.dll
+C:\Users\zali\Documents\Visual Studio 2015\Projects\SchoolManagement2\SchoolUnitTest\obj\Debug\SchoolUnitTest.pdb
